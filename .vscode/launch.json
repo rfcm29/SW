@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<rune.management>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sw.rune.management.Application",
+            "projectName": "rune.management",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
